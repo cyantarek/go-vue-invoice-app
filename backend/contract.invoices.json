@@ -1,0 +1,11 @@
+{ "status": true,
+  "user_id": "5c2850c3f2439902a75388e0",
+  "invoices": [
+    {
+      "id": "5c286162f2439951d0177249",
+      "name": "Test",
+      "paid": false,
+      "user_id": "5c2850c3f2439902a75388e0"
+    }
+  ]
+}

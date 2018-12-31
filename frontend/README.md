@@ -1,6 +1,6 @@
 # frontend
 
-> A Vue.js project
+> Front end for invoicing application
 
 ## Build Setup
 
